@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.50002"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Elementary/Elementary Arc Dark Flat 4K.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Fedora palette.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="translate(287,-83)"
+       gradientUnits="userSpaceOnUse"
+       id="path1082_2_"
+       y2="129.3468"
+       x2="112.49853"
+       y1="6.1372099"
+       x1="112.49854">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0"
+         id="stop193" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.27450982"
+         id="stop195" />
+      <midPointStop
+         id="midPointStop197"
+         style="stop-color:#FFFFFF"
+         offset="0" />
+      <midPointStop
+         id="midPointStop199"
+         style="stop-color:#FFFFFF"
+         offset="0.5" />
+      <midPointStop
+         id="midPointStop201"
+         style="stop-color:#000000"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(-0.3937741,0,0,0.393752,357.51969,122.00151)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#path1082_2_"
+       id="linearGradient2544"
+       y2="303.14029"
+       x2="606.91248"
+       y1="104.50665"
+       x1="541.33502" />
+    <linearGradient
+       id="linearGradient3388">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0"
+         id="stop3390" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.37113401"
+         id="stop3392" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.749107,0,0,0.749107,-35.459862,91.44108)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3388"
+       id="linearGradient4416"
+       y2="183.9644"
+       x2="490.72305"
+       y1="237.72447"
+       x1="490.72305" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2991"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3177"
+       effect="spiro" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1344"
+       x="-0.10799936"
+       width="1.2159987"
+       y="-0.10800064"
+       height="1.2160013">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.981246"
+         id="feGaussianBlur1346" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38564815"
+     inkscape:cx="1602.2987"
+     inkscape:cy="1080"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1287"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,274.50016)">
+    <g
+       id="layer1-3"
+       inkscape:label="Layer 1"
+       transform="translate(-309.18452,-325.81554)">
+      <g
+         transform="translate(76.35119,145.14286)"
+         id="g932">
+        <rect
+           style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32"
+           width="52.160713"
+           height="96.005951"
+           x="-77.863091"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#404552;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-3"
+           width="52.160713"
+           height="96.005951"
+           x="-25.702377"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#383c4a;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-7"
+           width="52.160713"
+           height="96.005951"
+           x="26.458336"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#4b5162;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-5"
+           width="52.160713"
+           height="96.005951"
+           x="78.619049"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#7c818c;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-35"
+           width="52.160713"
+           height="96.005951"
+           x="130.77975"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#45b1ea;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-6"
+           width="52.160713"
+           height="96.005951"
+           x="-130.0238"
+           y="-93.827377" />
+        <rect
+           style="opacity:1;fill:#6ba4e7;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-2"
+           width="52.160713"
+           height="96.005951"
+           x="130.77975"
+           y="2.1785736" />
+        <rect
+           style="opacity:1;fill:#5b8cc5;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-9"
+           width="52.160713"
+           height="96.005951"
+           x="78.619049"
+           y="2.1785736" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-1"
+           width="52.160713"
+           height="96.005951"
+           x="26.458344"
+           y="2.1785736" />
+        <rect
+           style="opacity:1;fill:#f3f4f5;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-27"
+           width="52.160713"
+           height="96.005951"
+           x="-25.702362"
+           y="2.1785736" />
+        <rect
+           style="opacity:1;fill:#f5f6f7;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-0"
+           width="52.160713"
+           height="96.005951"
+           x="-130.02377"
+           y="2.1785736" />
+        <rect
+           style="opacity:1;fill:#cfd6e6;fill-opacity:1;stroke:none;stroke-width:0.29104167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect32-93"
+           width="52.160713"
+           height="96.005951"
+           x="-77.863068"
+           y="2.1785736" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#383c4a;fill-opacity:1;stroke:none;stroke-width:1.8659116;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect42"
+       width="1016"
+       height="571.5"
+       x="-1.1368684e-13"
+       y="-274.50064"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png" />
+    <g
+       id="g1287"
+       transform="matrix(0.68975759,0,0,0.68975759,415.91736,-80.832798)">
+      <path
+         style="fill:#537fb3;fill-opacity:1;stroke-width:1.00000012"
+         id="voice"
+         d="M 266.62578,133.50613 C 266.62578,59.981272 207.02224,0.37581225 133.49794,0.37581225 60.006705,0.37581225 0.42642458,59.931232 0.37428458,133.41225 v 103.02106 c 0.0396,16.68432 13.57118042,30.19086 30.26600042,30.19086 H 133.55194 c 73.49976,-0.0288 133.07384,-59.61276 133.07384,-133.11804"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#537fb3;fill-opacity:1;stroke-width:1;filter:url(#filter1344)"
+         id="voice-2"
+         d="m -633.54173,228.99351 c 0,-73.52485 -59.60354,-133.130299 -133.12784,-133.130299 -73.49123,0 -133.07151,59.555399 -133.12365,133.036419 v 103.02105 c 0.0396,16.68433 13.5712,30.19087 30.26602,30.19087 h 102.91164 c 73.49974,-0.0288 133.07383,-59.61275 133.07383,-133.11804"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#6ba4e7;stroke-width:29.21000099;stroke-opacity:1"
+         id="in"
+         d="m 77.126305,142.09757 c 0,0 47.844755,0 47.844755,0 0,0 0,47.84478 0,47.84478 0,26.41028 -21.43446,47.84472 -47.844755,47.84472 -26.4103,0 -47.84474,-21.43444 -47.84474,-47.84472 0,-26.41032 21.43444,-47.84478 47.84474,-47.84478 z"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <use
+         xlink:href="#in"
+         id="finity"
+         transform="rotate(180,124.85578,142.14409)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ffffff;stroke-width:1.00000012"
+         id="free"
+         d="m 139.60742,127.52923 v 62.34618 c 0,34.50402 -27.97538,62.48 -62.480595,62.48 -5.23494,0 -8.9565,-0.59102 -13.80236,-1.8577 -7.06594,-1.84912 -12.84046,-7.64254 -12.84286,-14.3811 0,-8.14514 5.91236,-14.06992 14.75028,-14.06992 4.20638,0 5.73268,0.80766 11.89494,0.80766 18.1916,0 32.947615,-14.73518 32.979535,-32.9268 v -28.65656 c 0,-2.56776 -2.08662,-4.64826 -4.65868,-4.64826 l -21.665195,-0.004 c -8.07212,0 -14.59402,-6.43842 -14.59402,-14.53266 -0.004,-8.14454 6.5888,-14.55656 14.74808,-14.55656"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <use
+         xlink:href="#free"
+         id="dom"
+         transform="rotate(180,124.85578,142.14409)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:export-filename="/home/isaac/Dropbox/Linux Wallpapers/Fedora/Fedora Arc Dark Flat 1080p.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
