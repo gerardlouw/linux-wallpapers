@@ -4,7 +4,6 @@ A collection of original Linux wallpapers and assets. Requests and contributions
 
 Distributions to add:
 
-* KDE Neon
 * Void
 * Gentoo
 * Slackware
